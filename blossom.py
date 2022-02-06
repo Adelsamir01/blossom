@@ -1,5 +1,6 @@
 from linkedlists import LinkedList
 from Node import Node
+
 class HashMap:
   def __init__(self, size):
     self.array_size = size
